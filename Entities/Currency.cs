@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Entities
 {
     /// <summary>
-    /// An object made to contain data deserialized from Json.
+    /// A class that functions as an object, made to contain data deserialized from Json.
     /// </summary>
-    public class RootObject
+    public class Currency
     {
         /// <summary>
         /// Property that contains a string with a link to legal information. I think.
