@@ -9,6 +9,10 @@ namespace JsonOpgave1EmilLynge
 {
     class Program
     {
+        /// <summary>
+        /// The main application. This is where the program runs.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             WebService webService = new WebService();
